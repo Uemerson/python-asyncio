@@ -1,2 +1,2 @@
 # python-asyncio
-A simple test with asynchronous routines using asyncio library in Python
+Some tests with asynchronous routines using asyncio library in Python
